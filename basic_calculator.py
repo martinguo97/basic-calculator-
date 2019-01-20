@@ -1,5 +1,5 @@
 import re
-class Caculator2:
+class basic_calculator:
 	def get_bracket(self,s):
 		self.s=s;
 		left_counter=0;
